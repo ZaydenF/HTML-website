@@ -19,3 +19,9 @@ body{
 ul{
 	font-size:125%;
 }
+table, th, td {
+	border: 1px solid black;
+	font-size:125%;
+}
+
+
