@@ -23,5 +23,18 @@ table, th, td {
 	border: 1px solid black;
 	font-size:125%;
 }
+#brown:hover {
+	color: brown;
+	
+}
+#Black:hover { 
+	color: #3F000F;
+}
+#polar:hover {
+	color: #939799;
+}
+#panda:hover {
+	color: #3c3c3c;
+}
 
 
